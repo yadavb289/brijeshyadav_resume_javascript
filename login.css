@@ -1,0 +1,41 @@
+body{
+    background-color: silver;
+    display: block;
+    font-family: cursive;
+
+}
+
+.login-container{
+    background-color: yellow;
+    display: block;
+    height: 190px;
+    width: 400px;
+    text-align: center;
+    margin: 10% auto;
+    padding: 5%;
+    box-shadow: 5px 5px 5px 5px grey;
+}
+
+.inner{
+    padding: 2%;
+}
+
+#username{
+    font-size: 25px;
+    background-color: snow;
+    margin-top: 5px;
+    padding: 5px;
+}
+#password{
+    font-size: 25px;
+    background-color: snow;
+    margin-top: 25px;
+    padding: 5px;
+}
+
+button{
+    font-size: 25px;
+    background-color: limegreen;
+    margin-top: 27px;
+    padding: 0px 15px;
+}
